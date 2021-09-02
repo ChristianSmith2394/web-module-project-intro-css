@@ -152,7 +152,12 @@ nav a {
 
 /*Footer*/
 
+.footimg {
+	
+}
+
 footer {
+	background-size: cover;
 	background-color: #F9E7DC;
 }
 
@@ -170,4 +175,8 @@ footer {
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 5%;
+}
+
+span {
+	font-weight: bold;
 }
